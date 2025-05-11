@@ -1,3 +1,0 @@
-This is a file for the task On Git. 
-This is the change on branch task 1......
-This is the change on branch task2.
