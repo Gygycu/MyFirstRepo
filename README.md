@@ -4,14 +4,14 @@ Main information about the app
 ##Second header
 App HTML details
 
-``html
+```html
 <p> Text Paragraph </p>
 ```
 
 ##Third header
 App JS details
 
-``` javascript
+```javascript
 console.log("Hello Giani");
 ```
 
